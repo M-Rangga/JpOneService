@@ -1,0 +1,21 @@
+JPONE RETAIL
+1.Rino
+2.Rendi
+3.Gustam
+
+JPONE SERVICE
+1.RANGGA
+2.JAKI
+
+JPONE FINANCE
+2.Zulfikar
+3.Taufan
+
+JPONE EDUPRENEUR
+1.Haikal
+2.Reyhan
+3.Rifky
+
+
+
+KATEGORI
